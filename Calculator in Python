@@ -1,0 +1,43 @@
+Calculator in Python
+
+def adunare (a,b):
+return a+b
+def scadere (a,b):
+return a-b
+def inmultire (a,b):
+return a*b
+def impartire (a,b):
+if b!= 0
+return a/b
+else
+return "Eroare: Impartirea la 0"
+
+Meniul principal
+while True:
+print(Calculator simplu)
+print("1.Adunare")
+print("2.Scadere")
+print("3.Inmultire")
+print("4.Impartire")
+print("5.Iesire")
+
+op= input("Alege o optiune de la 1-5:")
+if op==' 5':
+print("La revedere")
+break
+
+numar1=float(input("Introdu primul numar: ")
+numar2=floar(input("Introdu al doilea numar : ")
+
+if op=='1':
+rezultat = adunare (numar1, numar2)
+elif op=='2':
+rezultat= scadere(numar1, numar2)
+elif op=='3':
+rezultat= inmultire (numar1, numar2)
+elif op=='4':)
+rezultat= impartire (numar1, numar2)
+else
+print("Optiune invalida. Te rugam sa reintroduci")
+
+print("Rezultatul este:{rezultat}\n ")
