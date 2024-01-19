@@ -43,7 +43,10 @@ Pentru a crea o clona in git: se deschide git bash
     Pasul 4: ls -a (pentru a lista toate fisierele din subdirector)
     Pasul 5: deschidem README.md (din folderul ce s-a format) intr-un editor de text, ex.notes si facem modificari. apoi il salvam
     Pasul 6: git status (pentru a vedea in ce branch ne aflam. ex main)
-    Pasul 7: 
+    Pasul 7: git add --all (pentru a adauga toate fisierele din subdirector)
+             sau git add README.md( pentru a adauga doar fisierul modificat readme.md)
+    Pasul 8: git commit -m "Mesaj sugestiv pentru care se face commit-ul"
+    Pasul 9: git push ( pentru a trimite totul in Git)
 , se scrie pwd(pentru afisarea directorului local), apoi ls(pentru a vedea toate directoarele), apoi cd + director(de ex. cd Desktop) pentru a intra din director, apoi ls(pt a vedea subdirectoarele din desktop), apoi git clone+ adresa URL 
 
 pentru a crea git commit, in git bash se scrie cd + directorul care s-a creat de mai sus(clona), apoi git pull, git status, git commit -m "Se scrie o descriere/nume sugestiv", apoi git branch (pentru a vedea in vce branch ne aflam)
