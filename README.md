@@ -1,2 +1,2 @@
 # Testare-Python
-Informatii, linkuri, documentatie
+Informatii, linkuri, documentatie, etc.
