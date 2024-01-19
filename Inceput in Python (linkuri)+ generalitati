@@ -32,3 +32,4 @@ print("Welcome to IDLE")
 else:
 print("Welcome to Python")
 
+pentru a crea o clona in git. se codiaza codul URL(din git-la code) se deschide git bash, se scrie pwd(pentru afisarea directorului local), apoi ls(pentru a vedea toate directoarele), apoi cd + director(de ex. cd Desktop) pentru a intra din director, apoi ls(pt a vedea subdirectoarele din desktop), apoi git clone+ adresa URL 
