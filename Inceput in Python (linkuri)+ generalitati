@@ -36,8 +36,8 @@ print("Welcome to IDLE")
 else:
 print("Welcome to Python")
 
-Pentru a crea o clona in git: se deschide git bash
-    Pasul 1: cd Desktop(se alege directorul )
+Pentru a crea o clona in git: se deschide git bash, se scrie pwd(pentru afisarea directorului local)
+    Pasul 1: cd Desktop(se alege directorul ) (cd -pentru a intra in director)
     Pasul 2: se codiaza codul URL(din git-la code)
     Pasul 3: cd Testare-Python( se denumeste subdirectorul la fel ca si repo din Git)
     Pasul 4: ls -a (pentru a lista toate fisierele din subdirector)
@@ -47,8 +47,6 @@ Pentru a crea o clona in git: se deschide git bash
              sau git add README.md( pentru a adauga doar fisierul modificat readme.md)
     Pasul 8: git commit -m "Mesaj sugestiv pentru care se face commit-ul"
     Pasul 9: git push ( pentru a trimite totul in Git)
-, se scrie pwd(pentru afisarea directorului local), apoi ls(pentru a vedea toate directoarele), apoi cd + director(de ex. cd Desktop) pentru a intra din director, apoi ls(pt a vedea subdirectoarele din desktop), apoi git clone+ adresa URL 
 
-pentru a crea git commit, in git bash se scrie cd + directorul care s-a creat de mai sus(clona), apoi git pull, git status, git commit -m "Se scrie o descriere/nume sugestiv", apoi git branch (pentru a vedea in vce branch ne aflam)
-pentru a crea un git push se scrie git push origin main( sau unde a aparut ca sunter in branch), si se deschide o fereasta in git, in care se updateaza originalul 
-ls -a, este o comanda a liniei de comanda,care iti afiseaza toate fisierele dintr-un director
+
+
