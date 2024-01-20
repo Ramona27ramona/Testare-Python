@@ -36,6 +36,8 @@ print("Welcome to IDLE")
 else:
 print("Welcome to Python")
 
+
+commit -înseamnă să salvezi starea curentă a proiectului  în istoricul Git. 
 Pentru a crea o clona in git: se deschide git bash, se scrie pwd(pentru afisarea directorului local)
     Pasul 1: cd Desktop(se alege directorul ) (cd -pentru a intra in director)
     Pasul 2: se codiaza codul URL(din git-la code)
