@@ -20,7 +20,7 @@ Informatii, linkuri, documentatie, etc.
 fructe = ['mere', 'pere', 'banane']
 fructe.append('cireșe')
 print(fructe)
-Cu aceasta functie, se adauga la sfarsitul listei cuvantul ,,cirese,, , fara a mai fi nevoie sa creem o noua lista.
+Cu aceasta functie, se adauga la sfarsitul listei cuvantul ,,cirese,, , fara a mai fi nevoie sa cream o noua lista.
 Se va afisa: mere,pere,banane,cirese
 
 - Se pot folosi pt print(" "), sau print(' '), e acelasi lucru.
