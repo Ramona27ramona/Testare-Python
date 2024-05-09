@@ -7,7 +7,7 @@ Informatii, linkuri, documentatie, etc.
 - https://realpython.com/python-idle/  ----- Tutorial Python + cum se face un calculator 
 
 - https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/( tutorial Terminal/linie de comanda)
-- https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/( cum sa faci un add,commit si push la un repo)
+- https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/  ( cum sa faci un add,commit si push la un repo)
 - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands   (comenzile pentru linia de comanda)
 
 - pentru intreruperea unui program care se executa, se apasa ^CTRL+C
