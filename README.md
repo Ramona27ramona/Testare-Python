@@ -44,7 +44,7 @@ se afiseaza 5, Dar daca dam din bara de control RESTART, se sterge tot ce era in
 - commit -înseamnă să salvezi starea curentă a proiectului  în istoricul Git. 
 Pentru a crea o clona in git: se deschide git bash, se scrie pwd(pentru afisarea directorului local)
     Pasul 1: cd Desktop(se alege directorul ) (cd -pentru a intra in director)
-    Pasul 2: se codiaza codul URL(din git-la code)
+    Pasul 2: se codiaza codul URL(din git-la code) git clone (..url...)
     Pasul 3: cd Testare-Python( se denumeste subdirectorul la fel ca si repo din Git)
     Pasul 4: ls -a (pentru a lista toate fisierele din subdirector)
     Pasul 5: deschidem README.md (din folderul ce s-a format) intr-un editor de text, ex.notes si facem modificari. apoi il salvam
